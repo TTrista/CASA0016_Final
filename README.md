@@ -1,7 +1,7 @@
-# 🌟 Multifunctional Wardrobe Dehumidification Assistant 🌟
+# 🌟 Multifunctional Wardrobe Dehumidifier 🌟
 
 Hello everyone! 👋 Welcome to Trista’s CASA0016 coursework repository!  
-This project introduces the **Multifunctional Wardrobe Dehumidification Assistant**, a device specifically designed to efficiently monitor, control, and reduce humidity levels inside wardrobes. Let’s dive into the details! 🚀
+This project introduces the **Multifunctional Wardrobe Dehumidifier**, a device specifically designed to efficiently monitor, control, and reduce humidity levels inside wardrobes. Let’s dive into the details! 🚀
 
 ---
 
@@ -94,6 +94,3 @@ Both circuits share a common ground (GND) to ensure stability and consistency. T
 
 ### Software
 1. Install the [Arduino IDE](https://www.arduino.cc/en/software).  
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/YourGitHubUsername/YourRepositoryName.git
