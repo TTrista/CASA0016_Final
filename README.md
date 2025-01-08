@@ -9,7 +9,7 @@ This project introduces the **Multifunctional Wardrobe Dehumidification Assistan
 
 The **Multifunctional Wardrobe Dehumidification Assistant** is an Arduino-powered system that integrates sensors, actuators, and a passive dehumidification unit to maintain optimal storage conditions in wardrobes. But wait—it’s not just a humidity controller! This device also comes with a **dedicated drying compartment** for storing small, humidity-sensitive items (and it has a cute smiley face drawer handle 😊).
 
-![Components Overview](https://github.com/TTrista/CASA0016_Final/blob/main/interim%20PPT/Components.png)
+<img src="https://github.com/TTrista/CASA0016_Final/blob/main/interim%20PPT/Components.png" alt="Components Overview1" width="600" />
 
 
 ### Features:
@@ -29,6 +29,8 @@ Here’s a quick rundown of the magic inside this device:
 - **60V N-Channel MOSFET**: For fan control 🔧  
 - **9V Servo Fan**: Keeps the air flowing 🌬️  
 - **Calcium Chloride Moisture Absorber**: Passive yet powerful dehumidification 💧  
+
+<img src="https://github.com/TTrista/CASA0016_Final/blob/main/interim%20PPT/Physical%20device%20surface.jpg" alt="Components Overview2" width="600" />
 
 ---
 
@@ -56,6 +58,8 @@ This project wasn’t without its challenges! The main difficulty was powering c
 
 Both circuits share a common ground (GND) to ensure stability and consistency. The fan’s power is regulated by a **60V N-Channel MOSFET**, allowing precise control based on the sensor readings.
 
+<img src="https://github.com/TTrista/CASA0016_Final/blob/main/interim%20PPT/Circuit%20diagram.png" alt="Components Overview3" width="600" />
+
 ---
 
 ## 🚀 How It Works
@@ -76,8 +80,8 @@ Both circuits share a common ground (GND) to ensure stability and consistency. T
 ## 📂 Repository Contents
 
 - **Code**: All Arduino code can be found in the `/src` folder. (https://github.com/TTrista/CASA0016_Final/tree/main/assistant3)
-- **PPT Presentation**: A detailed project presentation is available [here](https://github.com/TTrista/CASA0016_Final).  
-- **Demo Video**: Embedded in the presentation slides for easy access.
+- **PPT Presentation**: A detailed project presentation is available (https://github.com/TTrista/CASA0016_Final/tree/main/interim%20PPT)  
+- **Demo Video**: Embedded in the presentation slides for easy access.👆
 
 ---
 
